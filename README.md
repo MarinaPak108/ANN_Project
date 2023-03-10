@@ -9,7 +9,7 @@
     - [Data Preparation](#Data_Preparation)
     - [ML Model Development](#ML_Model_Development)
     - [DL Model Development](#DL_Model_Development)
-- [Libraries and Algorithms used](#Liabraries_and_Algorithms)
+- [Libraries and Algorithms used](#Libraries_and_Algorithms)
     - [Libraries](#Libraries)
     - [Algorithms](#Algorithms)
 - [Future plans](#Future_plans)
@@ -20,7 +20,7 @@ This project was developed within the framework of study AI. The main point was 
 
 Project Goal: predict the net hourly electrical energy output of the combined cycle powerplant plant.
 
-Role in Project: Worked 30 hours a week as a data analyst within a team of 2 to produce visualizations of collected data from a Combined Cycle Power Plant and developed ANN model.
+Role in Project: Worked 30 hours a week (overall 3 weeks) as a data analyst within a team of 2 to produce visualizations of collected data from a Combined Cycle Power Plant and developed ANN model.
 
 ### About_Dataset
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
@@ -68,7 +68,7 @@ hyper parameters tuning by choosing optimal:
     - learning rate
     - patience
  
-## Liabraries_and_Algorithms
+## Libraries_and_Algorithms
 ### Libraries
 libraries applied in current project:
 
